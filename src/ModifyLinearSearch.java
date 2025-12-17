@@ -1,5 +1,5 @@
 
-public class Ex6_3_1_ModifyLinearSearch {
+public class ModifyLinearSearch {
 	public static void main(String[] args) {
 		String[] words = { "Lions", "Wolverines", "Tigers", "Loons", "Spartans", "Cardinals", "Chips" };
 
@@ -48,3 +48,4 @@ public class Ex6_3_1_ModifyLinearSearch {
 		}
 	}
 }
+
